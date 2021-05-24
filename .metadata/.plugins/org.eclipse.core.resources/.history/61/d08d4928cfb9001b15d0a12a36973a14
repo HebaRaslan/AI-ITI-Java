@@ -1,0 +1,8 @@
+package Pyra;
+
+public class test {
+	public static void main(String [] args) {
+		PyramidCSVDAO =new PyramidCSVDAO ("D:\\ITI\\Java\\IO Assignment\\pyramids.csv");
+	}
+
+}

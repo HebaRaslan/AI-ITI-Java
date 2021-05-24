@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;counrtyCode&apos; from expression &apos;Citylst.get(i).counrtyCode&apos;&#x0D;&#x0A;- Original project: &apos;map1&apos;&#x0D;&#x0A;- Variable name: &apos;counrtyCode&apos;&#x0D;&#x0A;- Destination method: &apos;map1.CsvReader.main(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;Citylst.get(i).counrtyCode&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;counrtyCode&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;map1{CsvReader.java" name="counrtyCode" replace="true" selection="1719 26" stamp="1621641173854" varType="false" version="1.0"/>
+</session>
